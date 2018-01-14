@@ -1,2 +1,1 @@
-# gitignore
-my gitignore
+https://www.gitignore.io/
