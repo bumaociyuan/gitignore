@@ -6,6 +6,9 @@
 build/
 DerivedData/
 
+## iOSInjectionProject
+iOSInjectionProject/
+
 ## Various settings
 *.pbxuser
 !default.pbxuser
